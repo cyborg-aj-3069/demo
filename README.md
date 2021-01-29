@@ -1,2 +1,2 @@
-# demo Day 1
+# Demo Day 1
 Getting started
